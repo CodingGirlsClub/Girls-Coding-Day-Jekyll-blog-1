@@ -1,8 +1,13 @@
-# Site settings
-title: Girls Coding Day
-subTitle: 架起女性与编程的桥梁
-description: 关注我们公众号/微博：codingirlsclub
-keywords: 女性, 编程, 教育, 公益
-author: 文洋
-baseurl: "" # the subpath of your site, e.g. /blog/
+# "/" + 仓库的名字. 资源文件的路径组成部分
+baseurl: "/Girls-Coding-Day-Jekyll-blog-1"
+
+# 网站的主标题
+title: "Girls Coding Day"
+# 网站副标题
+subTitle: "架起女性与编程的桥梁"
+description: "关注我们公众号/微博：codingirlsclub"
+keywords: "女性, 编程, 教育, 公益"
+author: "文洋"
+
+# 其它配置, 可忽略, 无需修改
 url: "" # the base hostname & protocol for your site

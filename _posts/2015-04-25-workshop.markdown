@@ -2,8 +2,8 @@
 title:  "A Craftsman Workshop"
 subtitle: "It's always a bit messy"
 author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+avatar: "assets/images/authors/wferr.png"
+image: "assets/images/f.jpg"
 date:   2015-04-25 12:12:12
 ---
 
