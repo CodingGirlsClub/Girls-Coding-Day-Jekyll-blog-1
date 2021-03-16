@@ -127,7 +127,9 @@ subTitle: "记录我的生活，学习和工作感悟 🥳"
 ## 4. 选择你电脑本机需要上传的图片  
 ![choose-image.png](docs/choose-image.png)  
 
-:warning: _图片需要提前下载到本地, 图片名称**不要**包含空格_  
+:warning: _图片需要提前下载到本地, 图片名称**不要**包含空格_, 强烈建议使用英文或数字命名，不要使用中文命名。 例如:  
+:white_check_mark: `abc-001.jpg, 001.jpg, 200.png, post-1-001.jpg`  
+:x: `你好.jpg, 你 好.jpg`
 
 ## 5. 填写提交信息, 点击 `Commit changes` 按钮  
 ![upload-image-success.png](docs/upload-image-success.png)  
