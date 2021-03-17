@@ -3,7 +3,7 @@ title:  "人哪，总要做一些“无意义”的事情"
 subtitle: "关注我们公众号/微博：codingirlsclub"
 author: "codingirlsclub"
 avatar: "assets/images/authors/logo.jpg"
-image: "assets/images/301.jpg"
+image: "assets/images/333.jpg"
 ---
 
 **文 | 刘司琪**  

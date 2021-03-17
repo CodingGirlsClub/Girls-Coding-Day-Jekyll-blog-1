@@ -1,6 +1,6 @@
 ---
 title:  "学员感想 | 哇！好有趣的一群灵魂！"
-subtitle: "关注我们公众号/微博：codingirlsclub"
+subtitle: ":)"
 author: "codingirlsclub"
 avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/500.jpg"

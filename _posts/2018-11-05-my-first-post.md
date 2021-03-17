@@ -1,6 +1,6 @@
 ---
 title:  "人大人首个女性编程日：收获与快乐同行"
-subtitle: "关注我们公众号/微博：codingirlsclub"
+subtitle: "🥳"
 author: "codingirlsclub"
 avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/001.jpg"

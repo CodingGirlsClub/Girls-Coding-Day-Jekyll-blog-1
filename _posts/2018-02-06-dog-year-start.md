@@ -1,6 +1,6 @@
 ---
 title:  "北京场回顾 | 我们的故事才刚刚开始"
-subtitle: "关注我们公众号/微博：codingirlsclub"
+subtitle: "=v="
 author: "codingirlsclub"
 avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/400.jpg"
