@@ -72,3 +72,5 @@ _菌菌有话说：_
 有人问我，你花这些时间去做GCD也好，女性社区也好，能获得什么？对你自己有什么意义么？  
 
 我可以对他说出很多这些事情带给我的利益，从一个功利的角度。但我自己知道，我做，只是我想去做而已，不为什么情怀，不在乎有没有意义，人哪，偶尔可以放纵的去做自己想做的事，不好么？  
+
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=x0519dqfhwt" allowFullScreen="true"></iframe>
